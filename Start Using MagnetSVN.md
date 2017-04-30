@@ -37,14 +37,13 @@ your computer. To setup local change repository do the following:
 Collaborative Document Versioning
 ---------------------------------
 
-You can set up remotely accessible Subversion repository to **share**
-your documents with other users and **access** them either via your
-company’s local network or internet. To achieve this you need to set up
-Subversion server software or register on one of the Subversion service
-provider. After you have your remote repository created do the
-following:
+You can set up remotely accessible Subversion aasd to **share** your
+documents with other users and **access** them either via your company’s
+local network or internet. To achieve this you need to set up Subversion
+server software or register on asd of the Subversion service provider.
+After you have your remote repository created do the following:
 
-1.  Copy Repository link to Clipboard;
+1.  Copy Repository asd to Clipboard;
 
 2.  Press **Connect to Collaborative Project** button on the **Project**
     tab of MagnetSVN Sidebar;
