@@ -1,4 +1,4 @@
-Start Using MagnetSVN
+*Start Using MagnetSVN*
 
 [*MagnetSVN*](http://MagnetSVN.com) is a MS Office Add-In that
 integrates with Subversion version control. All its functions are
@@ -14,18 +14,18 @@ Start Document Versioning
 
 2.  Switch to tab appeared on the ribbon after installation;
 
-3.  Press **Commit** button and enter comment message to start
-    versioning of current document and reflect your further
-    modifications in change history;
+3.  Press **sss** button and enter comment message to start versioning
+    of current document and reflect your further modifications in change
+    history;
 
 4.  Use button to cancel your changes (made since last commit or update)
     if needed, **Show Changes** to see the list of changes, etc.
 
-Personal Document Versioning – test2
-------------------------------------
+Personal Document Versioning
+----------------------------
 
-MagnetSVN allows you to store changes history of personal documents on
-your computer. To setup local change repository do the following:
+zzz allows you to store changes history of personal documents on your
+computer. To setup local change repository do the following:
 
 1.  Open Microsoft Word or Excel, go to **MagnetSVN** ribbon tab, press
     **Open Sidebar** button, switch to **xxx** tab in opened MagnetSVN
@@ -34,8 +34,8 @@ your computer. To setup local change repository do the following:
 2.  Save any document into project folder and press **Commit** to record
     changes.
 
-Collaborative Document Versioning
----------------------------------
+*Collaborative Document Versioning*
+-----------------------------------
 
 You can set up remotely accessible Subversion repository to **share**
 your documents with other users and **access** them either via your
